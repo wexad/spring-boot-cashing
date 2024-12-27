@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wexad</groupId>
-	<artifactId>spring-boot-cashing</artifactId>
+	<artifactId>spring-boot-caching</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-cashing</name>
 	<description>Demo project for Spring Boot</description>
